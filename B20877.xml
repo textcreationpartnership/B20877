@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the people of God in scorn called Quakers, to all magistrates and people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20877</idno>
+            <idno type="STC">Wing C7201</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[43]</idno>
+            <idno type="STC">ESTC R202165</idno>
+            <idno type="EEBO-CITATION">99883281</idno>
+            <idno type="PROQUEST">ocm99883281</idno>
+            <idno type="VID">193537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193537)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1([47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the people of God in scorn called Quakers, to all magistrates and people.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: John Crook [and fifteen others].</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:193537:1" rendition="simple:additions"/>
+            <head>A DECLARATION of the people of GOD in ſcorn called QUAKERS, TO ALL MAGISTRATES AND PEOPLE.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it hath pleaſed God in his wiſdome which is Infinite, and by his power which is mighty, by a way to the world unknown, within theſe few years to raiſe up &amp; redeem to himſelf in this Nation a people to ſerve him in his own way, and according to his own will, that amongſt them he might make his Name known, and do for them great and terrible things amongſt the Nation where they ſhould come, their Laws, Worſhip, Man<g ref="char:EOLhyphen"/>ners
+<pb n="2" facs="tcp:193537:2"/>and Language being diverſe from the laws, worſhip, man<g ref="char:EOLhyphen"/>ners and language of other people; By reaſon whereof, and of the falſe reports which the enemy of God, the lying ſpirit, which is in the mouth of the falſe prophets and miniſters of unrighteouſneſſe, they have been rendred odious unto the people, and loaded with reproaches and falſe accuſations, as that <hi>they denied the Scriptures of Truth, the Church of God, the Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhip of God, the Ministers of Chriſt, and the maintenance belonging to the Ministers of the Goſpel, the Ordinances of Christ, the Magiſtracy and Magiſtrates, and would deſtroy all government, and civil relations amongſt men,</hi> with many ſuch falſe aſperſions; yea, ſo far did that lying ſpirit (for a time) prevail with many, that they thought if they killed us they did God ſervice; yea, ſo far hath it prevailed with many in places of authority, both Civil and Military, that they have counted us the off-ſcouring of the World, not ſit for any thing, except it were to be the ſubjects upon whom they might exerciſe their cruelty, as our many cruel ſufferings in this Nation and others adjacent do mani<g ref="char:EOLhyphen"/>feſtly declare, nothing almoſt befalling us in moſt Cities, Towns, Villages and Steeple-houſes, where we have come, but bonds, abuſes and impriſonments, inſomuch that ſcarce any Goal within this Nation into which ſome of us have not been caſt; beſides our being haled before Magiſtraces and Rulers, and our being drawn before the Judgement-Seats in this Na<g ref="char:EOLhyphen"/>tion, by whom we have ſuffered the impriſonment of our bo<g ref="char:EOLhyphen"/>dies, <hi>many till death,</hi> and the ſpoiling of our goods in ſuch an exceſſive manner as ſcarce hath been heard of before; And much of this ſuffering hath been occaſioned by thoſe men cal<g ref="char:EOLhyphen"/>led <hi>Ministers</hi> of Chriſt, which their fruits have n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w made them manifeſt not to be the Miniſters of Chriſt, but of Antichriſt; And for Tithes, a Popiſh inſtitution, brought in by the Apo<g ref="char:EOLhyphen"/>ſtates in the Apoſtacy, ſince the dayes of Chriſt and his Apoſtles ſet up, as more largely hath been in ſeveral papers publiſhed and declared for the good of all people whoſe hearts and de<g ref="char:EOLhyphen"/>ſires are after truth. And theſe things have we ſuffered in our Native Country by our country men, not by Biſhops and high commiſſion courts, but by &amp; from ſuch as had a hand in putting down thoſe, as enemies to the peoples liberties, as men and as
+<pb n="3" facs="tcp:193537:2"/>Chriſtians, and ſince have ſet up themſelves and one ano<g ref="char:EOLhyphen"/>ther in high places; but the Lord hath made them as ſlipperie to them as they were to the perſecutors before them; neither have their things before mentioned been done unto us for any evil we did unto them, but for conſcience ſake have we thus ſuffered, not for any tranſgreſſion of the Law of God, neither in truth of any wholſome law of this Nation, as may appear by the things for which in the general we have ſuffered; that is to ſay, many of us have ſuffered impriſonment, and other abuſes, for appearing in the Courts of this Nation in our own perſons, being thereunto commanded by Writs out of the ſaid Courts upon a great pain, to wit 100. <hi>l.</hi> a man, and becauſe we could not with freedom appear by an attorney; many more of us have been &amp; are impriſoned in this Nation, for no other cauſe, then in truth our obedience to the command of Chriſt, who ſaith, <hi>Mat.</hi> 5.34.35.36.37. <hi>Swear not at all, nei<g ref="char:EOLhyphen"/>ther by Heaven for it is Gods throne, nor by the earth, for it is his foot<g ref="char:EOLhyphen"/>ſtool, neither by Jeruſalem, for it is the City of the great King, neither ſhalt thou ſwear by thy head, becauſe thou can not make one hair white or black, but let your yea, be yea, and your nay, nay, for whatſoever is more then theſe cometh of evil;</hi> And <hi>Mat.</hi> 23.22 it is ſaid, <hi>He that ſweareth by Heaven, ſweareth by the throne of God, and that ſitteth thereon;</hi> Now it is God that ſitteth in Heaven, which is his Throne, therefore Chriſt Jeſus, forbid<g ref="char:EOLhyphen"/>ing to ſwear by Heaven which is Gods Throne, forbideth to ſwear by God, or any other oath; then ſuch judges or others that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſons to ſwear, are in plain contradiction to command of Chriſt, and in ſo doing, they do not judge for God, but for men. Neither have thoſe called <hi>Barons of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> any known Law of this Nation to warrant ſuch their actings, there being no law of this Nation, that requires any man to give his anſwer upon oath, to what his accuſer ſhall lay to his charge, neither is there any known Law in this Nation that doth give that Court of Exchequer any cogni<g ref="char:EOLhyphen"/>zance of ſuch cauſes as are for detention of Tithes; For it is ſaid, <hi>No plea ſhall be holden or pleaded in the Exchequer, except it do ſpecially concern us and our Miniſters of the Exchequer.</hi> The ſta<g ref="char:EOLhyphen"/>tute of <hi>Rutland</hi> made, <hi>May</hi> 14. <hi>Anno decimo, Edw.</hi> And whereas
+<pb n="4" facs="tcp:193537:3"/>it is alleadged, that it is the Rule or Cuſtom of that Court, that people muſt anſwer upon oath; It is anſwered, that that Rule or cuſtom which is contrary to Law is void, and amongſt the Churches of Chriſt there is no ſuch cuſtom as ſwearing; and therefore muſt needs be a Heatheniſh cuſtom which is vain, being contrary to the command of Chriſt, and another, from the Law of the Nation, or that maxim which ſaith, <hi>No man is bound to accuſe himſelf.</hi> Many others of us have been unreaſo<g ref="char:EOLhyphen"/>nably fined, impriſoned, and otherwayes perſecuted (for that is perſecution, when any man doth ſuffer for doing that which is good in obedience to God, and for refraining from that which is evil) for keeping their hats on their heads in a Court, or before a man called a Juſtice. Now there is no Law of God, or of this Nation requireth ſuch a thing as the putting off the hat, at the command of a Judge or Juſtice; for the hat as well as a cap is a covering for the head, not onely for the woman, but for the man alſo; and where there is no Law, there is no tranſgreſſion: And if it be ſaid, <hi>It is due to the Magiſtrate by cuſtom or uſage of the Nation;</hi> It is anſwered, The cuſtoms of the Nations or people are vain, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and Iſrael was commanded of God, not to learn the cuſtoms or manners of the Nations or Heathen whom the Lord caſt out of <hi>Canaan</hi> before them; and all cuſtoms or uſages which are contrary to reaſon are void in Law; and amongſt the Church<g ref="char:EOLhyphen"/>es of Chriſt there was never ſuch a cuſtom, neither is it accor<g ref="char:EOLhyphen"/>ding to the Scripture (which the Judges and Juſtices and o<g ref="char:EOLhyphen"/>thers call the Rule for Chriſtians to walk by) to put off the hat in a Court or before a Magiſtrate. And if it ſhould yet be ſtood upon, <hi>The putting off the hat as a thing indifferent.</hi> It is an<g ref="char:EOLhyphen"/>ſwered, He that is offended when the hat is not put off, when he expects it, or requires it; to him, and in his account, it is not a thing indifferent; For then is a thing truly indifferent to a man, when a man regardeth not whether be have the thing done to him or not. And others of us have been im<g ref="char:EOLhyphen"/>priſoned for ſpeaking that which was to us revealed, and re<g ref="char:EOLhyphen"/>quired of us by the Lord God (the higheſt power) unto a man called a Miniſter, or to a people in a Steeple-houſe or Tem<g ref="char:EOLhyphen"/>ple made with hands, wherein God dwelleth not; but in his
+<pb n="5" facs="tcp:193537:3" rendition="simple:additions"/>people, whoſe bodies are his Temple, God doth dwell, and is known in his Sanctuary, where his voice is heard, and his will and word obeyed rather then men who would limit the Spirit of God to times, places, and perſons; but their nei<g ref="char:EOLhyphen"/>ther was, nor is any ſuch cuſtom amongſt the Churches of Chriſt; where, <hi>If any thing</hi> was or <hi>is revealed to him that ſits by, the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to hold his peace,</hi> and ſo <hi>all may propheſie one by one; for the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Prophets is ſubject to the Prophets.</hi> Again, many of us have ſuffered many wayes for no other cauſe then meeting together in the fear of the Lord, to wait upon him and to worſhip him, upon the firſt dayes of the week; Others of us have been turned forth of our imployments in the Na<g ref="char:EOLhyphen"/>tion, both civil and military, and rendred uncapable of ſuch <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> imployment in a Common-wealth, upon no other account, but becauſe we were <hi>Quakers</hi> (ſo called) or could not deny the people called <hi>Quakers,</hi> although we had in faith<g ref="char:EOLhyphen"/>fulneſs ſerved this preſent Parliament, &amp; our Countrey in our ſeveral imployments whilſt we were permitted to continue in them; And of late in the great Aſſembly and Counſels of this Nation, we have been repreſented (by ſome) to be a people, not onely to have unchriſtian'd, but alſo unman'd our ſelves, as if we had made our ſelves uncapable of any imployment wherein we might be ſerviceable in the Nation, thereby endeavouring to render us not onely odious, but alſo uſeleſs in a Common-wealth.</p>
+            <p>But for the clearing of the truth of God, as it is in Jeſus, and for the manifeſting of the ſecret deceits of our enemies, and pretended friends, in humility and meekneſs of mind, we do declare unto all; That by the receiving <hi>the gift of God, the Light <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Jeſus,</hi> &amp; it obeying in our hearts, which giveth knowledge and underſtanding to the ſimple, we are not thereby made uncapable nor unwilling to ſerve our Coun<g ref="char:EOLhyphen"/>try and Country-men in the loweſt employments and places that are any ways tending to the thing that is juſt, and to the ſuppreſſion of that which is evil, or to the procuring good un<g ref="char:EOLhyphen"/>to our Countrey, Countrey-men and Neighbours amongſt whom we ſojourn; Neither do we deny, but bear our wit<g ref="char:EOLhyphen"/>neſs too, and of the Scriptures of truth, and the Church of
+<pb n="6" facs="tcp:193537:4"/>God, and the Worſhip of God which is in the Spirit and in the Truth; and the Miniſters of Chriſt we own, and their maintenance, which is free, and the Ordinances of Chriſt they are eſtabliſhed amongſt us, all which are known by the Light of Chriſt that ſhineth in the heart, and the higher powers we are ſubject unto for Conſcience ſake, and Magiſtrates and Rulers who are not a terrour to good works but to the evil, are by us owned and honoured in the Lord, which honour ſtands not in flattering titles, or bowing the knee, and putting off the hat; but in due and ready ſubjection to all juſt Commands, accor<g ref="char:EOLhyphen"/>ding to the Apoſtles Doctrine, <hi>Honour all men in the Lord, and ſubmit your ſelves to every Ordinance of man for the Lord ſake;</hi> Now that which ſtands in the Lord, and is done for the Lords ſake, muſt be in that which is good, and not in that which is evil, for evil is not in the Lord; for he that doth evil, he hates the Light, which is good, and he that hates that which is good, doth nothing for Chriſts ſake; and by the Light of Chriſt which ſhineth in our hearts, we are taught of God to love as Brethren, to obey our Parents after the fleſh, husbands are taught to dwell with their wives according to knowledge, and wives to ſubmit themſelves unto their husbands as unto the Lord; ſervants to be obedient to them that are their Maſters, and all to ſubmit themſelves one unto another in the fear of God. Neither do we deſire that to our ſelves, which we do not freely give and allow unto others; to wit, <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience;</hi> knowing that every man muſt give an accompt unto God for himſelf, yet we deſire the good of all men, which we know cannot be enjoyed by any man whilſt he lives in ſin and wickedneſs; Neither dare we practiſe, nor allow that in our ſelves, which we witneſs to be evil in others; Neither do we with-draw our ſhoulders from the yoke, or lay burthens upon others to eaſe our ſelves, but are <hi>made free in the Lord, and in our ſpirits</hi> to ſerve our Countrey and Countrey-men in all things that are Juſt, in the things that are honeſt, in the things that are equal, and in the things that are of good re<g ref="char:EOLhyphen"/>port, amongſt thoſe that truly fear God; ſo we are not <hi>ſtraitned in our ſelves</hi> by the Spirit of the Lord, <hi>nor limited by the truth;</hi> from being ſerviceable in our generations; but <hi>we are ſtraitned
+<pb n="7" facs="tcp:193537:4" rendition="simple:additions"/>by unreaſonable men,</hi> and limited by that ſpirit that rules by un<g ref="char:EOLhyphen"/>righteous lawes, popiſh cuſtoms, and mens own wills, which ſtands upon oaths, hats, cringings, and againſt plainneſs of ſpeech; and will not ſuffer the ſervants of God to exerciſe their gifts, and reprove ſin in the gate.</p>
+            <p>So it is not we that have either loſt our reaſon, unman'd or unchriſtian'd our ſelves, being known in our Countreys to be men having reaſon and underſtanding, (though we have laid aſide childiſh things) living and walking in a good converſa<g ref="char:EOLhyphen"/>tion as men and Chriſtians, by whoſe example many have been turned unto God, and have bleſſed God for us in the day of their viſitation.</p>
+            <p>Therefore let all tongues be ſilent before the Lord, and his people, who are no oppreſſors, nor impoſers upon mens Con<g ref="char:EOLhyphen"/>ſciences, nor devourers of Gods creatures upon our luſts, nor time ſervers, nor men pleaſers, neither for advantage do we admire mens perſons, nor after earthly honours or prefer<g ref="char:EOLhyphen"/>ment do we covet, <hi>which whil'ſt ſome have coveted alter, they have made ſhipwrack of Faith, and of a good conſcience:</hi> But the good of all people do we ſeek after, and truth and juſtice, and ſince<g ref="char:EOLhyphen"/>rity and a holy converſation, and a <hi>pure Religion and Worſhip of God,</hi> which is in the <hi>Spirit</hi> and in the <hi>Truth,</hi> which the Devil and will-worſhippers are out of) and in that we are to glori<g ref="char:EOLhyphen"/>fie God, and ſerve our generation; And all in juſtice, and oppreſſion and oppreſſours, unrighteouſneſs and ungodlineſs of men, and all falſe wayes and falſe worſhips, and falſe mi<g ref="char:EOLhyphen"/>niſters, &amp; falſe maintenance, &amp; falſe churches &amp; falſe tongues we utterly deny, and bear our Teſtimony againſt with one accord, mouth and ſpirit, and all perſecutors who abuſe the power of God, which is for the praiſe of them that do well, and turns the ſword backward, <hi>ſtrengthening</hi> the hands of the evil-doers, <hi>ſuch were alwayes blind, and were ſuddenly ouer<g ref="char:EOLhyphen"/>thrown by the hand of God,</hi> which comes upon them when they are high and proud, and in their ambition forgets God, the Lord by his hand ſuddenly overturns ſuch, and layes them low with the valleys, and ſets the valleys above them. Read
+<pb n="8" facs="tcp:193537:5"/>this in this Nation, and do not forget the hand; for who doth, by that hand will be laid low again; But they that rule and ſtand in the power of God, they anſwer the juſt principle of God in every man.</p>
+            <closer>
+               <signed>Subſcribed in the behalf of our ſelves and the reſt of our friends, who are of one heart and mind with us.
+<list>
+                     <item>
+                        <hi>John Crook</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Byllynge</hi>
+                     </item>
+                     <item>
+                        <hi>Dennys Holliſter</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Gandy</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Ward</hi>
+                     </item>
+                     <item>
+                        <hi>Antho. Pearſon</hi>
+                     </item>
+                     <item>
+                        <hi>John Hodſon</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Duncon</hi>
+                     </item>
+                     <item>
+                        <hi>Amor Stoddart</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Moor.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Hodden</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Benſon</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Watkinſon</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Aldam</hi>
+                     </item>
+                     <item>
+                        <hi>John Pennyman.</hi>
+                     </item>
+                     <item>
+                        <hi>John Fry.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
